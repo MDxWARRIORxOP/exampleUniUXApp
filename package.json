@@ -1,0 +1,23 @@
+{
+  "name": "create-uniux-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "create-uniux-app",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "setup": "npm install",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.23.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "uniux": "^3.9.6"
+  }
+}
