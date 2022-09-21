@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://circel.co">
-    <img alt="Gatsby" src="https://cdn.discordapp.com/attachments/894260496725835776/903648043486834728/circel_logo.png" width="60" />
+    <img alt="Gatsby" src="https://cdn.discordapp.com/attachments/894260496725835776/903648043486834728/circel_logo.png" width="150" />
   </a>
 </p>
 <h1 align="center">
