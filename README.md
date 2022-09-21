@@ -15,7 +15,7 @@
 1. Clone This Repo
 
 ```bash
-git clone https://github.com/MDxWARRIORxOP/exampleUniUXApp.git
+git clone -b typescript https://github.com/MDxWARRIORxOP/exampleUniUXApp.git
 ```
 
 2. Install Packages
